@@ -18,7 +18,10 @@ text to doc.py has the code to convert that text file to docx file and also chan
 install necerssary python libraries
 
 pip install google-api-python-client
+
 pip install PyDrive
+
 pip install docx
+
 pip install requests
 
