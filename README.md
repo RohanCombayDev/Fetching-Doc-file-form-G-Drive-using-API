@@ -15,5 +15,7 @@ Also create one text file with name "file.txt" in the same folder which contains
 install necerssary python libraries
 
 pip install google-api-python-client
-
+pip install PyDrive
+pip install docx
+pip install requests
 
